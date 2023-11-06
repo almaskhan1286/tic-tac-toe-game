@@ -22,8 +22,6 @@ img {
   display: flex;
   justify-content: center;
   /* padding-left: 250px; */
-
-
 }
 
 .container {
@@ -147,5 +145,5 @@ img {
 
       /* width: auto; */
 /* height: 100vh; /* Adjust the height as per your requirement */
-}
-}
+/* } */
+/* } */
